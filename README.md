@@ -1,10 +1,10 @@
 # Bienvenido a Mi Página de Inicio
 
-¡Hola, mundo! Soy [Tu Nombre] y esta es mi página de inicio en GitHub.
+¡Hola! Soy Daniel y esta es mi página de inicio en GitHub.
 
 ## Acerca de Mí
 
-Soy un [desarrollador](https://www.linkedin.com/in/tu-usuario/) apasionado por [tecnología](https://www.tu-blog.com) y siempre estoy aprendiendo algo nuevo.
+Soy un desarrollador(https://www.linkedin.com/in/tu-usuario/) y siempre estoy intentando aprender cositas nuevas.
 
 ## Proyectos Destacados
 
