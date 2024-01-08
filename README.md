@@ -9,8 +9,6 @@
 ## Proyectos Destacados
 
 
-## Blog
-
 ## Contacto
 
 ¡Gracias por visitar mi página!
